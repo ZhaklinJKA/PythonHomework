@@ -1,0 +1,5 @@
+m = int(input())
+h = int(input())
+all = m / (h * h)
+k = round(all , 2)
+print(k)
